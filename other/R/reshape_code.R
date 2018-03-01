@@ -8,3 +8,6 @@ table = cast(mdata, orderid~item+variable, mean)
 table[is.na(table)] 
 
 data.set = data.frame(table)
+
+# transpose data
+mdata <- t(dataset1)
