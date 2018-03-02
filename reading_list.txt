@@ -1,0 +1,5 @@
+List of easy to follow blogs explaining various concepts:
+
+LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+CNN: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ 
