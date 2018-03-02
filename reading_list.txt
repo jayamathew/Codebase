@@ -1,5 +1,10 @@
 List of easy to follow blogs explaining various concepts:
 
-LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+R: 
+https://www.statmethods.net/r-tutorial/index.html
+
+Python:
 
 CNN: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ 
+LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
