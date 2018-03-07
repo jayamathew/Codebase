@@ -1,3 +1,5 @@
+# recode values less than a threshold to zero.  
+
 SELECT scores,  
 CASE   
 WHEN scores <= 10000 THEN 0   

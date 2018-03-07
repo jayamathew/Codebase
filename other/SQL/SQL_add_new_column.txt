@@ -1,0 +1,10 @@
+# add in a new column to an existing table
+
+with
+table1 as
+(
+  select NULL as NewCol
+)
+SELECT *
+FROM t1
+cross join table1
