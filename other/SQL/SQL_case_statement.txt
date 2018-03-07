@@ -1,0 +1,6 @@
+SELECT scores,  
+CASE   
+WHEN scores <= 10000 THEN 0   
+WHEN scores > 10000 THEN 1   
+END as scores_edit  
+FROM t1;  
