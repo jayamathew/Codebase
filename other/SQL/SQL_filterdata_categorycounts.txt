@@ -1,0 +1,8 @@
+# assume you need to filter your data by category (make) counts, only retain where num_counts > 10
+
+select * from 
+(
+select make, count(*) as num_counts from t1
+group by make
+)
+where num_counts > 10;
