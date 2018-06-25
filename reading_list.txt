@@ -9,3 +9,6 @@ CNN: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 Transfer learning: http://ruder.io/transfer-learning/
 
+Databricks:
+https://docs.azuredatabricks.net/user-guide/visualizations/index.html
+
