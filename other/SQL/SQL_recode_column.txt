@@ -1,0 +1,2 @@
+select education, replace(education, 'Bachelors', 'BS') as education_replace
+from t1;
